@@ -4,3 +4,4 @@ Setting a Foundation for Successful Test Automation
 - Chapter 2: Creating a Culture for Test Automation Success
 - Chapter 3: Developing for Test Automatability
 - Chapter 4: Tooling for Test Automation
+- Chapter 5: Future Proofing Your Test Automation Efforts
