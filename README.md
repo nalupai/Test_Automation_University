@@ -6,3 +6,4 @@ Setting a Foundation for Successful Test Automation
 - Chapter 4: Tooling for Test Automation
 - Chapter 5: Future Proofing Your Test Automation Efforts
 - Chapter 6: Scaling Your Test Automation
+- Chapter 7: Measuring the Value of Your Test Automation
