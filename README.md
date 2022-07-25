@@ -10,3 +10,4 @@ Setting a Foundation for Successful Test Automation
 [Certificate](https://testautomationu.applitools.com/certificate/?id=92e50688)
 
 IntelliJ for Test Automation Engineers
+- Chapter 1: Installation
