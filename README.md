@@ -11,3 +11,7 @@ Setting a Foundation for Successful Test Automation
 
 IntelliJ for Test Automation Engineers
 - Chapter 1: Installation
+- Chapter 2.1: Creating a New Java Project
+- Chapter 2.2: Creating a New Maven Project
+- Chapter 2.3: Importing Project from Existing Sources
+- Chapter 2.4: Importing Project from Source Control
