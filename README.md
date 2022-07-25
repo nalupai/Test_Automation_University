@@ -8,3 +8,5 @@ Setting a Foundation for Successful Test Automation
 - Chapter 6: Scaling Your Test Automation
 - Chapter 7: Measuring the Value of Your Test Automation<br>
 [Certificate](https://testautomationu.applitools.com/certificate/?id=92e50688)
+
+IntelliJ for Test Automation Engineers
