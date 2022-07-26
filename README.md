@@ -20,3 +20,4 @@ IntelliJ for Test Automation Engineers
 - Chapter 3.3: Help Menu
 - Chapter 4.1: Project Screen
 - Chapter 4.2: Footer and Maven Bars
+- Chapter 5: Settings
