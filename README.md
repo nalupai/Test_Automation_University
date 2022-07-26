@@ -15,3 +15,6 @@ IntelliJ for Test Automation Engineers
 - Chapter 2.2: Creating a New Maven Project
 - Chapter 2.3: Importing Project from Existing Sources
 - Chapter 2.4: Importing Project from Source Control
+- Chapter 3.1: File Menu
+- Chapter 3.2: View Menu
+- Chapter 3.3: Help Menu
